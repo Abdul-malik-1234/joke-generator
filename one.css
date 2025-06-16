@@ -12,13 +12,15 @@ font-weight: bold;
 div.make-center{
   color:white;
   position: absolute;
-  top: 12px;
-  left: 4px;
-  background-color:rgba(2, 2, 237, 10%);
+  top: 30%;
+  left: 25%;
+  background-color:rgba(65, 65, 236, 0.852);
  border-radius: 10px;
- position:absolute;
 }
-
+.buttonwrapper{
+  position: absolute;
+  left:40%;
+}
 button{
   color:rgba(200, 232, 17);
   background-color:rgba(2, 2, 237, 0.973);
